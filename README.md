@@ -1,1 +1,3 @@
-# Curso-Santander-2024
+# Primeiro Código versionado.
+
+Estou aprendendo sobre versionamento e esse é meu primeiro código. 
